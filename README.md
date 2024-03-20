@@ -1,6 +1,9 @@
 <h1 align="center">
-    <!-- Link pokemon -->
+    <a href="https://pokemondb.net/pokedex/porygon-z">
+        <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/porygon-z.gif" alt="Porygon-Z">
+    </a>
     <span>Banco de Dados</span>
+
 </h1>
 
 <div align="center">
