@@ -8,16 +8,17 @@
 
 <div align="center">
 
-Repositório de estudos para a matéria <strong> Building Relational Datadase </strong> de Análise e Desenvolvimento de Sistemas da FIAP. <br> (o link para o curso se encontra no botão "FIAP")
+Repositório de estudos para a formação <strong> Modelagem de dados </strong> da Alura e para a matéria <strong> Building Relational Datadase </strong> de Análise e Desenvolvimento de Sistemas da FIAP. <br> (o link para o curso se encontra no botão "FIAP")
 
 <br>
 
-Study repository for the subject <strong> Building Relational Datadase </strong> of FIAP Systems Analysis and Development. <br> (the link tp the course is on the button "FIAP")
+Study repository for the Alura's formation <strong> Modelagem de dados </strong> and subject <strong> Building Relational Datadase </strong> of FIAP Systems Analysis and Development. <br> (the link tp the course is on the button "FIAP")
 
 [![](https://img.shields.io/badge/brModelo-black?style=for-the-badge&logo=brmodelo&logoColor=red)]()
 
 [![](https://img.shields.io/badge/my%20profile-red?style=for-the-badge&color=black)](https://www.linkedin.com/in/hakuakai/)
 [![](https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=white)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+[![](https://img.shields.io/badge/Alura-red?style=for-the-badge&color=black)](https://cursos.alura.com.br/formacao-modelagem-dados)
 
 </div>
 <div>
@@ -33,6 +34,7 @@ Study repository for the subject <strong> Building Relational Datadase </strong>
                 <th>N°</th>
                 <th>Atividades</th>
                 <th>Linguagem</th>
+                <th>Curso</th>
             </tr>
         </thead>
     <tbody align="left">
@@ -43,6 +45,21 @@ Study repository for the subject <strong> Building Relational Datadase </strong>
             </td>
             <td>
                 <img alt="Static Badge" src="https://img.shields.io/badge/brModelo-black?style=for-the-badge&logo=brmodelo&logoColor=red">
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=white">
+            </td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td> 
+                <a href="https://github.com/HakuGarcia/BancoDeDados/tree/4ebb49ff7f300dd571cad20a5ae853a7f113fcf4/Clube%20do%20Livro">Clube do Livro</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/brModelo-black?style=for-the-badge&logo=brmodelo&logoColor=red">
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/Alura-red?style=for-the-badge&color=black">
             </td>
         </tr>
     </tbody>
@@ -65,6 +82,7 @@ Study repository for the subject <strong> Building Relational Datadase </strong>
                 <th>N°</th>
                 <th>Activities</th>
                 <th>Language</th>
+                <th>Course</th>
             </tr>
         </thead>
     <tbody align="left">
@@ -75,6 +93,21 @@ Study repository for the subject <strong> Building Relational Datadase </strong>
             </td>
             <td>
                 <img alt="Static Badge" src="https://img.shields.io/badge/brModelo-black?style=for-the-badge&logo=brmodelo&logoColor=red">
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=white">
+            </td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td> 
+                <a href="https://github.com/HakuGarcia/BancoDeDados/tree/4ebb49ff7f300dd571cad20a5ae853a7f113fcf4/Clube%20do%20Livro">Clube do Livro</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/brModelo-black?style=for-the-badge&logo=brmodelo&logoColor=red">
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/Alura-red?style=for-the-badge&color=black">
             </td>
         </tr>
     </tbody>
